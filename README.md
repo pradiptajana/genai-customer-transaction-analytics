@@ -32,7 +32,7 @@ The core goal is to eliminate manual analysis overhead by automating the transla
 ├── notebooks/
 │   └── EDA_and_Survival_Analysis.ipynb  # Step-by-step Python data cleaning and exploratory analytics
 ├── scripts/
-│   └── genai_prompt_templates.py       # Optimized, production-ready system prompts and LLM configurations
+│   └── genai_prompt_templates.pdf       # Optimized, production-ready system prompts and LLM configurations
 ├── reports/
 │   └── executive_briefing_sample.md     # Example of the automated, AI-generated stakeholder brief
 └── README.md                            # Comprehensive project documentation
